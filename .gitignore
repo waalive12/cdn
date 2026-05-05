@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+config/database.php
+temp/
+cache/
+/tmp/*
+!.gitkeep
+.env
+.idea/
+*.swp
+*.swo
+*~
+node_modules/
